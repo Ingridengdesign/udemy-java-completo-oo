@@ -1,0 +1,9 @@
+package com.exercicios.enumeracoes.entites.enums;
+
+public enum WorkerLevel {
+	
+	JUNIOR,
+	MID_LEVEL,
+	SENIOR;
+
+}
