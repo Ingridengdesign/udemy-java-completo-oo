@@ -23,7 +23,7 @@ public class AlturaMedia {
 		}
 		
 		double avg = sum/n;
-		System.out.printf("AVERAGE HEIGHT: %.2f%n" + avg);
+		System.out.printf("AVERAGE HEIGHT: %.2f%n", avg);
 		sc.close();
 	}
 
